@@ -1,0 +1,115 @@
+body {
+  background-color: #213950;
+}
+.main-container {
+  display: flex;
+  justify-content: center;
+}
+#title {
+  text-align: center;
+  color: white;
+  text-shadow: 2px 3px 3px gray;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 60px;
+  padding-bottom: 50px;
+}
+.w {
+  color: #aa0960;
+  font-size: 60px;
+  width: 120px;
+  height: 120px;
+  margin: 5px;
+  background-image: url(Asstes/images/crash.png);
+  border: 7px solid #3F6C97;
+  border-radius: 7px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+  text-shadow: 3px 1px 2px white;
+}
+.a {
+  color: #aa0960;
+  font-size: 60px;
+  border: 7px solid #3F6C97;
+  margin: 5px;
+  border-radius: 7px;
+  width: 120px;
+  height: 120px;
+  background-image: url(Asstes/images/kick.png);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+  text-shadow: 3px 1px 2px white;
+}
+.s {
+  color: #aa0960;
+  font-size: 60px;
+  border: 7px solid #3F6C97;
+  border-radius: 7px;
+  margin: 5px;
+  width: 120px;
+  height: 120px;
+  background-image: url(Asstes/images/snare.png);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+  text-shadow: 3px 1px 2px white;
+}
+.d {
+  color: #aa0960;
+  font-size: 60px;
+  border: 7px solid #3F6C97;
+  border-radius: 7px;
+  width: 120px;
+  margin: 5px;
+  height: 120px;
+  background-image: url(Asstes/images/tom1.png);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+  text-shadow: 3px 1px 2px white;
+}
+.j {
+  color: #aa0960;
+  font-size: 60px;
+  border: 7px solid #3F6C97;
+  border-radius: 7px;
+  width: 120px;
+  height: 120px;
+  margin: 5px;
+  background-image: url(Asstes/images/tom2.png);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+  text-shadow: 3px 1px 2px white;
+}
+.k {
+  color: #aa0960;
+  font-size: 60px;
+  border: 7px solid #3F6C97;
+  border-radius: 7px;
+  width: 120px;
+  height: 120px;
+  margin: 5px;
+  background-image: url(Asstes/images/tom3.png);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+  text-shadow: 3px 1px 2px white;
+}
+.l {
+  color: #aa0960;
+  font-size: 60px;
+  border: 7px solid #3F6C97;
+  border-radius: 7px;
+  width: 120px;
+  height: 120px;
+  margin: 5px;
+  background-image: url(Asstes/images/tom4.png);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+  text-shadow: 3px 1px 2px white;
+}
+.footer {
+  padding: 50px 0;
+  text-align: center;
+  color: whitesmoke;
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+  font-weight: bold;
+}
+
